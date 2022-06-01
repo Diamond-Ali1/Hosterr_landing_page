@@ -46,7 +46,7 @@ span, ul, p{
 				transform:rotate(-40deg);
 				background:transparent;
 				animation-name:transform_blue;
-				animation-duration:3s;
+				animation-duration:4s;
 }
 #pink-shape{
 				width:200px;
@@ -54,12 +54,12 @@ span, ul, p{
 				background:transparent;
 				position:absolute;
 				animation-name:transform_pink;
-				animation-duration:3s;
+				animation-duration:4s;
 }
 #purple-shape{
 				width:200px;
 				animation-name:transform_purple ;
-				animation-duration:3s;
+				animation-duration:4s;
 				transform:rotate(-10deg);
 				background:transparent;
 				position:absolute;
