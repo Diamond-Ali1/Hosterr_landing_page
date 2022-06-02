@@ -30,7 +30,7 @@ span, ul, p{
 				padding:12px;
 				font-size:12px;
 }
-#flex-bar h1{       
+#flex-bar, #flex-bar h1{       
                                 position:relative;
 } 
 #flex-bar input{
@@ -71,6 +71,7 @@ span, ul, p{
 				width:200px;
 				transform:rotate(5deg);
 				background:transparent;
+                                position:relative;
 }
 @keyframes transform_purple {
 				from{transform:rotate(5deg);}
